@@ -10,21 +10,21 @@ module OAuth2
     #
     # @return [Integer]
     def major
-      2
+      1
     end
 
     # The minor version
     #
     # @return [Integer]
     def minor
-      0
+      4
     end
 
     # The patch version
     #
     # @return [Integer]
     def patch
-      0
+      2
     end
 
     # The pre-release version, if any
